@@ -1,0 +1,17 @@
+
+h1 {
+  color: #333;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: left;
+  padding: 40px;
+  background-color: #f0f0f0;
+}
+
+video {
+  border: 2px solid #444;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
